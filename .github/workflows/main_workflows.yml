@@ -1,4 +1,4 @@
-# .github/workflows/java-to-ec2.yml
+# .github/workflows/main_workflows.yml
 name: Java EC2 Deploy
 
 on:
